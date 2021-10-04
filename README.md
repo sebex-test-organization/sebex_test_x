@@ -10,8 +10,7 @@ by adding `sebex_test_x` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:sebex_test_x, "~> 0.2.0-alpha.0.1"}
-  ]
+	{:sebex_test_x, "~>= 0.3.0"}  ]
 end
 ```
 
